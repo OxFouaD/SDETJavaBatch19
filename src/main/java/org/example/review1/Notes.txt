@@ -1,0 +1,31 @@
+difference between print and println
+
+Print katprinti f nefs line.
+Println katprinti f next line.
+
+
+What are variables?
+      variables are like containers that we use to store data in our programs.
+
+what are DataTypes?
+      DataTypes are used to store and identify different type of data in variables.
+
+Primitive dataTypes:
+  There are 8 basic dataTypes in java.
+     btye => the extra smallest whole number box.
+     short => the small whole number box.
+     int => the medium whole number box.
+     long => the extra large whole number box.
+     float => small container for decimal numbers, (l a3dad li fihom fasila bhal 2.3 w dima ndiro moraha F)
+     double => medium container fir decimal numbers, (l a3dad li fihom fasila b joj ar9am awla kter bhal 2.322 )
+     char => smallest datatype for storing the characters (only 1 character west '')
+     boolean => store true or false.
+
+Non-primitive dataTypes:
+    Are advance dataTypes built using the above mentioned 8 primitive dataTypes.
+
+=====================================================================================
+
+How do we decide what dataType we should use for a variable?
+    we decide based on two things one is what type of data we are planing to store.
+    and second what type of operations we will be performing on that data.
